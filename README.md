@@ -1,6 +1,6 @@
 # Hi, I'm Anastasia 👋
 
-Product manager and AI-assisted builder working in Web3, regenerative finance, and public goods. Currently based on Koh Phangan, Thailand, relocating to Berlin.
+Product manager and AI-assisted builder working in Web3, regenerative finance, and public goods. Currently based on Koh Phangan, Thailand, relocating to Morocco.
 
 I take products from spec to shipped code using Cursor and Claude. When [DeCleanup Network](https://github.com/DeCleanup-Network)'s developer partnership stalled, I picked up the tools myself and shipped our Farcaster mini app solo, then co-built the full V2 dApp on Celo.
 
