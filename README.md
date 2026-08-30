@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Anastasia 👋
 
-<!--
-**LuminaEnvision/LuminaEnvision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product manager and AI-assisted builder working in Web3, regenerative finance, and public goods. Currently based on Koh Phangan, Thailand, relocating to Berlin.
 
-Here are some ideas to get you started:
+I take products from spec to shipped code using Cursor and Claude. When [DeCleanup Network](https://github.com/DeCleanup-Network)'s developer partnership stalled, I picked up the tools myself and shipped our Farcaster mini app solo, then co-built the full V2 dApp on Celo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work on:**
+- 🧹 [DeCleanup Network](https://decleanup.net) — onchain cleanup verification protocol, live on Base and Celo. Tokenomics, litepaper, governance, and product design.
+- 🌱 [ReFi Phangan](https://github.com/ReFi-Phangan) & Greenpill Phangan — community chapters I co-founded, running IRL cleanups and public goods programming.
+- 📣 EcoSynthesisX — Web3-native marketing and community strategy.
+
+**Stack:** React / Next.js, Solidity basics, Hardhat, Farcaster SDK, Wagmi/Viem, Cursor + Claude for AI-assisted development.
+
+**Links:** [X/Twitter](https://x.com/luminaenvision) · [LinkedIn](https://www.linkedin.com/in/anastasia-boltrushevich-91b021289/)· luminaenvisions.eth
